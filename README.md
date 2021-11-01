@@ -11,7 +11,7 @@ You get many visitors to your website every day, but you know only a small perce
 
 ### Instructions on how to run the project
 
-The pickled model is already in all you have to do is run this on your command promt:
+The pickled model is already in the repo all you have to do is run this on your command promt:
 
 1)docker build -t propensity-prediction .
 
