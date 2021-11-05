@@ -17,7 +17,7 @@ The pickled model is already in the repo all you have to do is run this on your 
 
 2)docker run -it --rm -p 8181:8181 propensity-prediction:latest
 
- with this two commands the app will be deployed in a docker container
+ with these two commands the app will be deployed in a docker container
  
  You can now send a query to this container to recieve prediction whether the customer has the propensity to purchase(true) or not(false) runing
  this: python data.py
